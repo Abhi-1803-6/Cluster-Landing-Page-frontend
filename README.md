@@ -30,7 +30,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository using GitHub Desktop or Git Bash:
    ```bash
-   git clone https://github.com/SartHak-0-Sach/Cluster-landing-page_frontend_project.git
+   git clone https://github.com/Abhi-1803-6/Cluster-Landing-Page-frontend.gitgit
    ```
 2. Open the project folder in your code editor.
 3. Run the project using a live server extension or deploy it using Netlify, Vercel, or another web hosting and deployment service.
